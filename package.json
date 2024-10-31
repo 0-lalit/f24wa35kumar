@@ -1,12 +1,12 @@
 {
   "name": "f24wa35kumar",
   "version": "0.0.0",
-  "description":"Express generated server",
+  "description": "Express generated server",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
-  "author":"Lalit Kumar",
+  "author": "Lalit Kumar",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "^4.3.7",
